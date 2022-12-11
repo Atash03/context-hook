@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/context-hook/static/css/main.e6c13ad2.css",
+    "main.js": "/context-hook/static/js/main.1fc2b9ff.js",
+    "index.html": "/context-hook/index.html",
+    "main.e6c13ad2.css.map": "/context-hook/static/css/main.e6c13ad2.css.map",
+    "main.1fc2b9ff.js.map": "/context-hook/static/js/main.1fc2b9ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1fc2b9ff.js"
+  ]
+}
